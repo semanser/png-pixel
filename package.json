@@ -1,0 +1,28 @@
+{
+  "name": "png-pixel",
+  "version": "1.0.0",
+  "description": "Draw arrays of pixels in PNG",
+  "main": "png-pixel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semanser/png-pixel.git"
+  },
+  "keywords": [
+    "png",
+    "pixel",
+    "pixels"
+  ],
+  "author": "Andriy Semenets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semanser/png-pixel/issues"
+  },
+  "homepage": "https://github.com/semanser/png-pixel#readme",
+  "dependencies": {
+    "color-convert": "^1.3.1",
+    "pngjs": "^2.3.1"
+  }
+}
