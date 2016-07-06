@@ -1,1 +1,4 @@
 .DS_Store
+input.png
+node_modules/
+test.js
