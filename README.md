@@ -1,6 +1,8 @@
 png-pixel
 ======
 
+[![npm version](https://badge.fury.io/js/png-pixel.svg)](https://badge.fury.io/js/png-pixel)
+
 Draw pixels in PNG easy.
 
 ## Installation
