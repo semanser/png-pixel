@@ -15,7 +15,7 @@ PNGPixel = {
             this.data[idx] = col[0];
             this.data[idx + 1] = col[1];
             this.data[idx + 2] = col[2];
-            this.data[idx + 3] = 255;
+            this.data[idx + 3] = pixel.opacity || 255;
             return pixel;
           });
 
