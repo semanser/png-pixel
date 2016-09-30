@@ -15,6 +15,7 @@ Draw pixels in PNG easy.
     PNGPixel.add('input.png', 'output.png', [
         {x: 0, y: 0, color: '24B3E3'},
         {x: 1, y: 1, color: 'E32437'},
+        {x: 2, y: 5, color: 'E4238E', opacity: 128} // opacity is a 0-255
     ]).then(function(writeStream) {
         writeStream.on('close', function() {
           console.log(`PNG written to ${this.path}`);
