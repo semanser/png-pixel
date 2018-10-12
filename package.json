@@ -16,7 +16,7 @@
     "pixels"
   ],
   "author": "Andriy Semenets",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/semanser/png-pixel/issues"
   },
