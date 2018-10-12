@@ -17,7 +17,7 @@ PNGPixel = {
             imageInfo.data[idx] = col[0]
             imageInfo.data[idx + 1] = col[1]
             imageInfo.data[idx + 2] = col[2]
-            imageInfo.data[idx + 3] = 255
+            imageInfo.data[idx + 3] = pixel.opacity || 255
             return pixel
           });
 
