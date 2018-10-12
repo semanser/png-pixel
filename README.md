@@ -17,7 +17,7 @@ PNGPixel.add('input.png', 'output.png', [
 ]).then(() => console.log('PNG successfully written'))
 ```
 
-Note: Input file need to be already exist before adding pixels.
+> Note: Input file need to be already exist before adding pixels.
 
     
     
