@@ -8,7 +8,7 @@
 
 ## Usage
 ```js
-const PNGPixel = require('../png-pixel.js')
+const PNGPixel = require('png-pixel')
 
 PNGPixel.add('input.png', 'output.png', [
     {x: 14, y: 10, color: '#24B3E3'},
