@@ -1,9 +1,7 @@
-png-pixel
-======
+<img alt="Logo" src="./images/header.png"/>
 
 [![npm version](https://badge.fury.io/js/png-pixel.svg)](https://badge.fury.io/js/png-pixel)
 
-Draw pixels in PNG easily.
 
 ## Installation
     npm install png-pixel --save
